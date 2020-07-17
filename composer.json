@@ -1,9 +1,9 @@
 {
-    "name": "laravel-admin-ext/daterangepicker",
+    "name": "laradvance/admin-daterangepicker",
     "description": "Integrates daterangepicker into laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "extension", "form", "daterangepicker"],
-    "homepage": "https://github.com/laravel-admin-ext/daterangepicker",
+    "homepage": "https://github.com/laradvance/admin-daterangepicker",
     "license": "MIT",
     "authors": [
         {
